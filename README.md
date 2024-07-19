@@ -13,7 +13,7 @@ CodeBuddy is an online code editor that enables you to write, compile, and previ
 
 ## Screenshots
 
-![CodeBuddy Screenshot]()
+![CodeBuddy Screenshot](https://github.com/PPratyay/CodeBuddy/blob/main/codebuddy%20screenshots/Screenshot%202024-07-19%20150501.png)
 
 ## Getting Started
 
