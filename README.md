@@ -14,6 +14,9 @@ CodeBuddy is an online code editor that enables you to write, compile, and previ
 ## Screenshots
 
 ![CodeBuddy Screenshot](https://github.com/PPratyay/CodeBuddy/blob/main/codebuddy%20screenshots/Screenshot%202024-07-19%20150501.png)
+![CodeBuddy Screenshot](https://github.com/PPratyay/CodeBuddy/blob/main/codebuddy%20screenshots/Screenshot%202024-07-19%20150544.png)
+![CodeBuddy Screenshot](https://github.com/PPratyay/CodeBuddy/blob/main/codebuddy%20screenshots/Screenshot%202024-07-19%20150605.png)
+![CodeBuddy Screenshot](https://github.com/PPratyay/CodeBuddy/blob/main/codebuddy%20screenshots/Screenshot%202024-07-19%20150626.png)
 
 ## Getting Started
 
