@@ -53,6 +53,4 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 
 
 
-## Contact
 
-For any inquiries or suggestions, please reach out to [Priyanshu Pratyay](priyanshu.pratyay@gmail.com).
